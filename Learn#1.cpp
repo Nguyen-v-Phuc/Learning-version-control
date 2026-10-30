@@ -7,5 +7,10 @@ using namespace std;
 int main()
 {
     cout << "Hello GIT\n";
-    return 0;
+
+
+    // This is a change to our code
+
+    cout << "Merging and branching\n";
+     return 0;
 }
